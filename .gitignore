@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+.idea/
+/local.properties
+/.kotlin/
+/build/
+/app/build/
+/captures/
+/work/
+build-*.png
+/dist/*.apk
+!/dist/gdmusic-next-2.7.1-debug.apk
+!/dist/gdmusic-next-2.7.1-release-preview.apk
+*.jks
+keystore.properties
+*.keystore
+.DS_Store
